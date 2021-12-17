@@ -3,7 +3,7 @@
 <param ve-config 
        title="16th Century Herbals"
        author="Maria Garcia"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://assets.sutori.com/user-uploads/image/bc02cc81-d89e-4c6c-a1a5-0de31ff885b2/0fd8dfa0eab06a734125ed80895b7e8c.jpeg" 
+       banner="https://assets.sutori.com/user-uploads/image/bc02cc81-d89e-4c6c-a1a5-0de31ff885b2/0fd8dfa0eab06a734125ed80895b7e8c.jpeg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
