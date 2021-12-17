@@ -14,11 +14,11 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Famous Herbals during the 16th Century
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+Many famous herbals were made during the sixteenth century. In Europe The Grete Herball and The Herball were published. In the New World, The Badianus Manuscript and The Florentine Codex were being constructed. Based on observations, European and New World herbals were no different than each other. It is interesting how despite not having contact with each other, cultures around the world viewed herbalism the same way.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://en.wikipedia.org/wiki/File:The_Grete_Herball,_Title_Page,_1526.jpg">
 
 # Basic usage
 
