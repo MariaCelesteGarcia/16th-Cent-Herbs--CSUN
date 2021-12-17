@@ -18,7 +18,7 @@
 
 Many famous herbals were made during the sixteenth century. In Europe The Grete Herball and The Herball were published. In the New World, The Badianus Manuscript and The Florentine Codex were being constructed. Based on observations, European and New World herbals were no different than each other. It is interesting how despite not having contact with each other, cultures around the world viewed herbalism the same way.
 <param ve-image 
-       manifest="https://specialcollections-blog.lib.cam.ac.uk/wp-content/uploads/2013/01/Grete-herball-TP-31.jpg">
+       manifest="https://commons.wikimedia.org/wiki/File:Grete_Herball,_1526_Wellcome_L0000809.jpg">
 
 # Basic usage
 
